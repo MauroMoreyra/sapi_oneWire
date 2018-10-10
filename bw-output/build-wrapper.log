@@ -1,98 +1,98 @@
-Mon Oct 01 21:36:40 2018: build-wrapper, version 5.1 (linux-x86)
-Mon Oct 01 21:36:40 2018: System name: Linux Nodename: mauro-BES-E5 Release: 4.15.0-34-generic Version: #37~16.04.1-Ubuntu SMP Tue Aug 28 10:44:06 UTC 2018 Machine: x86_64
-Mon Oct 01 21:36:40 2018: socket path: /tmp/build-wrapper-socket.KdEs1w
-Mon Oct 01 21:36:40 2018: dynamic library found: /home/mauro/build-wrapper-linux-x86/libinterceptor-i686.so
-Mon Oct 01 21:36:40 2018: dynamic library found: /home/mauro/build-wrapper-linux-x86/libinterceptor-x86_64.so
-Mon Oct 01 21:36:40 2018: command executed as: <build-wrapper-linux-x86-64>
-Mon Oct 01 21:36:40 2018: command line received: <make clean all>
-Mon Oct 01 21:36:40 2018: env 0: <XDG_VTNR=7>
-Mon Oct 01 21:36:40 2018: env 1: <XDG_SESSION_ID=c1>
-Mon Oct 01 21:36:40 2018: env 2: <XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/mauro>
-Mon Oct 01 21:36:40 2018: env 3: <CLUTTER_IM_MODULE=xim>
-Mon Oct 01 21:36:40 2018: env 4: <SESSION=ubuntu>
-Mon Oct 01 21:36:40 2018: env 5: <GPG_AGENT_INFO=/home/mauro/.gnupg/S.gpg-agent:0:1>
-Mon Oct 01 21:36:40 2018: env 6: <TERM=xterm-256color>
-Mon Oct 01 21:36:40 2018: env 7: <VTE_VERSION=4205>
-Mon Oct 01 21:36:40 2018: env 8: <SHELL=/bin/bash>
-Mon Oct 01 21:36:40 2018: env 9: <QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1>
-Mon Oct 01 21:36:40 2018: env 10: <WINDOWID=94373052>
-Mon Oct 01 21:36:40 2018: env 11: <UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1000/1102>
-Mon Oct 01 21:36:40 2018: env 12: <GNOME_KEYRING_CONTROL=>
-Mon Oct 01 21:36:40 2018: env 13: <GTK_MODULES=gail:atk-bridge:unity-gtk-module>
-Mon Oct 01 21:36:40 2018: env 14: <USER=mauro>
-Mon Oct 01 21:36:40 2018: env 15: <LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:>
-Mon Oct 01 21:36:40 2018: env 16: <QT_ACCESSIBILITY=1>
-Mon Oct 01 21:36:40 2018: env 17: <UNITY_HAS_3D_SUPPORT=true>
-Mon Oct 01 21:36:40 2018: env 18: <XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0>
-Mon Oct 01 21:36:40 2018: env 19: <XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0>
-Mon Oct 01 21:36:40 2018: env 20: <KICAD_PATH=/usr/share/kicad>
-Mon Oct 01 21:36:40 2018: env 21: <SSH_AUTH_SOCK=/run/user/1000/keyring/ssh>
-Mon Oct 01 21:36:40 2018: env 22: <DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path>
-Mon Oct 01 21:36:40 2018: env 23: <XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg>
-Mon Oct 01 21:36:40 2018: env 24: <UNITY_DEFAULT_PROFILE=unity>
-Mon Oct 01 21:36:40 2018: env 25: <DESKTOP_SESSION=ubuntu>
-Mon Oct 01 21:36:40 2018: env 26: <PATH=/home/mauro/bin:/home/mauro/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/mauro/build-wrapper-linux-x86:/home/mauro/sonar-scanner-3.0.3.778-linux/bin:/home/mauro/ciaa-ide/gcc-arm-none-eabi-4_9-2015q1/bin:/home/mauro/ciaa-ide/openocd-0.9.0/src:/snap/bin>
-Mon Oct 01 21:36:40 2018: env 27: <KIGITHUB=https://github.com/KiCad>
-Mon Oct 01 21:36:40 2018: env 28: <QT_IM_MODULE=ibus>
-Mon Oct 01 21:36:40 2018: env 29: <QT_QPA_PLATFORMTHEME=appmenu-qt5>
-Mon Oct 01 21:36:40 2018: env 30: <LC_COLLATE=C>
-Mon Oct 01 21:36:40 2018: env 31: <XDG_SESSION_TYPE=x11>
-Mon Oct 01 21:36:40 2018: env 32: <PWD=/home/mauro/ciaa-ide/sapi_oneWire>
-Mon Oct 01 21:36:40 2018: env 33: <JOB=unity-settings-daemon>
-Mon Oct 01 21:36:40 2018: env 34: <XMODIFIERS=@im=ibus>
-Mon Oct 01 21:36:40 2018: env 35: <GNOME_KEYRING_PID=>
-Mon Oct 01 21:36:40 2018: env 36: <LANG=es_AR.UTF-8>
-Mon Oct 01 21:36:40 2018: env 37: <GDM_LANG=es_ES>
-Mon Oct 01 21:36:40 2018: env 38: <MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path>
-Mon Oct 01 21:36:40 2018: env 39: <COMPIZ_CONFIG_PROFILE=ubuntu>
-Mon Oct 01 21:36:40 2018: env 40: <IM_CONFIG_PHASE=1>
-Mon Oct 01 21:36:40 2018: env 41: <GDMSESSION=ubuntu>
-Mon Oct 01 21:36:40 2018: env 42: <SESSIONTYPE=gnome-session>
-Mon Oct 01 21:36:40 2018: env 43: <GTK2_MODULES=overlay-scrollbar>
-Mon Oct 01 21:36:40 2018: env 44: <SHLVL=1>
-Mon Oct 01 21:36:40 2018: env 45: <HOME=/home/mauro>
-Mon Oct 01 21:36:40 2018: env 46: <XDG_SEAT=seat0>
-Mon Oct 01 21:36:40 2018: env 47: <LANGUAGE=es_AR:es>
-Mon Oct 01 21:36:40 2018: env 48: <GNOME_DESKTOP_SESSION_ID=this-is-deprecated>
-Mon Oct 01 21:36:40 2018: env 49: <UPSTART_INSTANCE=>
-Mon Oct 01 21:36:40 2018: env 50: <UPSTART_EVENTS=xsession started>
-Mon Oct 01 21:36:40 2018: env 51: <XDG_SESSION_DESKTOP=ubuntu>
-Mon Oct 01 21:36:40 2018: env 52: <LOGNAME=mauro>
-Mon Oct 01 21:36:40 2018: env 53: <COMPIZ_BIN_PATH=/usr/bin/>
-Mon Oct 01 21:36:40 2018: env 54: <DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-X180ARWATQ>
-Mon Oct 01 21:36:40 2018: env 55: <XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop>
-Mon Oct 01 21:36:40 2018: env 56: <QT4_IM_MODULE=xim>
-Mon Oct 01 21:36:40 2018: env 57: <LESSOPEN=| /usr/bin/lesspipe %s>
-Mon Oct 01 21:36:40 2018: env 58: <INSTANCE=>
-Mon Oct 01 21:36:40 2018: env 59: <UPSTART_JOB=unity7>
-Mon Oct 01 21:36:40 2018: env 60: <XDG_RUNTIME_DIR=/run/user/1000>
-Mon Oct 01 21:36:40 2018: env 61: <DISPLAY=:0>
-Mon Oct 01 21:36:40 2018: env 62: <XDG_CURRENT_DESKTOP=Unity>
-Mon Oct 01 21:36:40 2018: env 63: <GTK_IM_MODULE=ibus>
-Mon Oct 01 21:36:40 2018: env 64: <LESSCLOSE=/usr/bin/lesspipe %s %s>
-Mon Oct 01 21:36:40 2018: env 65: <XAUTHORITY=/home/mauro/.Xauthority>
-Mon Oct 01 21:36:40 2018: env 66: <OLDPWD=/home/mauro/ciaa-ide>
-Mon Oct 01 21:36:40 2018: env 67: <_=/home/mauro/build-wrapper-linux-x86/build-wrapper-linux-x86-64>
-Mon Oct 01 21:36:40 2018: executing: <make clean all>
-Mon Oct 01 21:36:40 2018: initializing json file
-Mon Oct 01 21:36:40 2018: process created with pid: 11152
-Mon Oct 01 21:36:40 2018: parent pid: 11151
-Mon Oct 01 21:36:40 2018: working directory: </home/mauro/ciaa-ide/sapi_oneWire>
-Mon Oct 01 21:36:40 2018: executable: </home/mauro/build-wrapper-linux-x86/build-wrapper-linux-x86-64>
-Mon Oct 01 21:36:40 2018: argv[0]: <build-wrapper-linux-x86-64>
-Mon Oct 01 21:36:40 2018: argv[1]: <-c>
-Mon Oct 01 21:36:40 2018: argv[2]: <>
-Mon Oct 01 21:36:40 2018: argv[3]: <make>
-Mon Oct 01 21:36:40 2018: argv[4]: <clean>
-Mon Oct 01 21:36:40 2018: argv[5]: <all>
-Mon Oct 01 21:36:40 2018: skipping process with pid: 11152
-Mon Oct 01 21:36:40 2018: process created with pid: 11153
-Mon Oct 01 21:36:40 2018: parent pid: 11152
-Mon Oct 01 21:36:40 2018: working directory: </home/mauro/ciaa-ide/sapi_oneWire>
-Mon Oct 01 21:36:40 2018: executable: </usr/bin/make>
-Mon Oct 01 21:36:40 2018: argv[0]: <make>
-Mon Oct 01 21:36:40 2018: argv[1]: <clean>
-Mon Oct 01 21:36:40 2018: argv[2]: <all>
-Mon Oct 01 21:36:40 2018: skipping process with pid: 11153
-Mon Oct 01 21:36:40 2018: finalizing json file
-Mon Oct 01 21:36:40 2018: returned with code: 2
+Tue Oct 09 22:59:23 2018: build-wrapper, version 5.1 (linux-x86)
+Tue Oct 09 22:59:23 2018: System name: Linux Nodename: mauro-BES-E5 Release: 4.15.0-36-generic Version: #39~16.04.1-Ubuntu SMP Tue Sep 25 08:59:23 UTC 2018 Machine: x86_64
+Tue Oct 09 22:59:23 2018: socket path: /tmp/build-wrapper-socket.nvFtRJ
+Tue Oct 09 22:59:23 2018: dynamic library found: /home/mauro/build-wrapper-linux-x86/libinterceptor-i686.so
+Tue Oct 09 22:59:23 2018: dynamic library found: /home/mauro/build-wrapper-linux-x86/libinterceptor-x86_64.so
+Tue Oct 09 22:59:23 2018: command executed as: <build-wrapper-linux-x86-64>
+Tue Oct 09 22:59:23 2018: command line received: <make clean all>
+Tue Oct 09 22:59:23 2018: env 0: <XDG_VTNR=7>
+Tue Oct 09 22:59:23 2018: env 1: <XDG_SESSION_ID=c1>
+Tue Oct 09 22:59:23 2018: env 2: <XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/mauro>
+Tue Oct 09 22:59:23 2018: env 3: <CLUTTER_IM_MODULE=xim>
+Tue Oct 09 22:59:23 2018: env 4: <SESSION=ubuntu>
+Tue Oct 09 22:59:23 2018: env 5: <GPG_AGENT_INFO=/home/mauro/.gnupg/S.gpg-agent:0:1>
+Tue Oct 09 22:59:23 2018: env 6: <TERM=xterm-256color>
+Tue Oct 09 22:59:23 2018: env 7: <VTE_VERSION=4205>
+Tue Oct 09 22:59:23 2018: env 8: <SHELL=/bin/bash>
+Tue Oct 09 22:59:23 2018: env 9: <QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1>
+Tue Oct 09 22:59:23 2018: env 10: <WINDOWID=67109045>
+Tue Oct 09 22:59:23 2018: env 11: <UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1000/1088>
+Tue Oct 09 22:59:23 2018: env 12: <GNOME_KEYRING_CONTROL=>
+Tue Oct 09 22:59:23 2018: env 13: <GTK_MODULES=gail:atk-bridge:unity-gtk-module>
+Tue Oct 09 22:59:23 2018: env 14: <USER=mauro>
+Tue Oct 09 22:59:23 2018: env 15: <LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:>
+Tue Oct 09 22:59:23 2018: env 16: <QT_ACCESSIBILITY=1>
+Tue Oct 09 22:59:23 2018: env 17: <UNITY_HAS_3D_SUPPORT=true>
+Tue Oct 09 22:59:23 2018: env 18: <XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0>
+Tue Oct 09 22:59:23 2018: env 19: <XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0>
+Tue Oct 09 22:59:23 2018: env 20: <KICAD_PATH=/usr/share/kicad>
+Tue Oct 09 22:59:23 2018: env 21: <SSH_AUTH_SOCK=/run/user/1000/keyring/ssh>
+Tue Oct 09 22:59:23 2018: env 22: <DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path>
+Tue Oct 09 22:59:23 2018: env 23: <XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg>
+Tue Oct 09 22:59:23 2018: env 24: <UNITY_DEFAULT_PROFILE=unity>
+Tue Oct 09 22:59:23 2018: env 25: <DESKTOP_SESSION=ubuntu>
+Tue Oct 09 22:59:23 2018: env 26: <PATH=/home/mauro/bin:/home/mauro/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/mauro/build-wrapper-linux-x86:/home/mauro/sonar-scanner-3.0.3.778-linux/bin:/home/mauro/ciaa-ide/gcc-arm-none-eabi-4_9-2015q1/bin:/home/mauro/ciaa-ide/openocd-0.9.0/src:/snap/bin>
+Tue Oct 09 22:59:23 2018: env 27: <KIGITHUB=https://github.com/KiCad>
+Tue Oct 09 22:59:23 2018: env 28: <QT_IM_MODULE=ibus>
+Tue Oct 09 22:59:23 2018: env 29: <QT_QPA_PLATFORMTHEME=appmenu-qt5>
+Tue Oct 09 22:59:23 2018: env 30: <LC_COLLATE=C>
+Tue Oct 09 22:59:23 2018: env 31: <XDG_SESSION_TYPE=x11>
+Tue Oct 09 22:59:23 2018: env 32: <PWD=/home/mauro/ciaa-ide/sapi_oneWire>
+Tue Oct 09 22:59:23 2018: env 33: <JOB=unity-settings-daemon>
+Tue Oct 09 22:59:23 2018: env 34: <XMODIFIERS=@im=ibus>
+Tue Oct 09 22:59:23 2018: env 35: <GNOME_KEYRING_PID=>
+Tue Oct 09 22:59:23 2018: env 36: <LANG=es_AR.UTF-8>
+Tue Oct 09 22:59:23 2018: env 37: <GDM_LANG=es_ES>
+Tue Oct 09 22:59:23 2018: env 38: <MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path>
+Tue Oct 09 22:59:23 2018: env 39: <COMPIZ_CONFIG_PROFILE=ubuntu>
+Tue Oct 09 22:59:23 2018: env 40: <IM_CONFIG_PHASE=1>
+Tue Oct 09 22:59:23 2018: env 41: <GDMSESSION=ubuntu>
+Tue Oct 09 22:59:23 2018: env 42: <SESSIONTYPE=gnome-session>
+Tue Oct 09 22:59:23 2018: env 43: <GTK2_MODULES=overlay-scrollbar>
+Tue Oct 09 22:59:23 2018: env 44: <SHLVL=1>
+Tue Oct 09 22:59:23 2018: env 45: <HOME=/home/mauro>
+Tue Oct 09 22:59:23 2018: env 46: <XDG_SEAT=seat0>
+Tue Oct 09 22:59:23 2018: env 47: <LANGUAGE=es_AR:es>
+Tue Oct 09 22:59:23 2018: env 48: <GNOME_DESKTOP_SESSION_ID=this-is-deprecated>
+Tue Oct 09 22:59:23 2018: env 49: <UPSTART_INSTANCE=>
+Tue Oct 09 22:59:23 2018: env 50: <UPSTART_EVENTS=xsession started>
+Tue Oct 09 22:59:23 2018: env 51: <XDG_SESSION_DESKTOP=ubuntu>
+Tue Oct 09 22:59:23 2018: env 52: <LOGNAME=mauro>
+Tue Oct 09 22:59:23 2018: env 53: <COMPIZ_BIN_PATH=/usr/bin/>
+Tue Oct 09 22:59:23 2018: env 54: <DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-6JgRmFE504>
+Tue Oct 09 22:59:23 2018: env 55: <XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop>
+Tue Oct 09 22:59:23 2018: env 56: <QT4_IM_MODULE=xim>
+Tue Oct 09 22:59:23 2018: env 57: <LESSOPEN=| /usr/bin/lesspipe %s>
+Tue Oct 09 22:59:23 2018: env 58: <INSTANCE=>
+Tue Oct 09 22:59:23 2018: env 59: <UPSTART_JOB=unity7>
+Tue Oct 09 22:59:23 2018: env 60: <XDG_RUNTIME_DIR=/run/user/1000>
+Tue Oct 09 22:59:23 2018: env 61: <DISPLAY=:0>
+Tue Oct 09 22:59:23 2018: env 62: <XDG_CURRENT_DESKTOP=Unity>
+Tue Oct 09 22:59:23 2018: env 63: <GTK_IM_MODULE=ibus>
+Tue Oct 09 22:59:23 2018: env 64: <LESSCLOSE=/usr/bin/lesspipe %s %s>
+Tue Oct 09 22:59:23 2018: env 65: <XAUTHORITY=/home/mauro/.Xauthority>
+Tue Oct 09 22:59:23 2018: env 66: <OLDPWD=/home/mauro/ciaa-ide>
+Tue Oct 09 22:59:23 2018: env 67: <_=/home/mauro/build-wrapper-linux-x86/build-wrapper-linux-x86-64>
+Tue Oct 09 22:59:23 2018: executing: <make clean all>
+Tue Oct 09 22:59:23 2018: initializing json file
+Tue Oct 09 22:59:23 2018: process created with pid: 6213
+Tue Oct 09 22:59:23 2018: parent pid: 6211
+Tue Oct 09 22:59:23 2018: working directory: </home/mauro/ciaa-ide/sapi_oneWire>
+Tue Oct 09 22:59:23 2018: executable: </home/mauro/build-wrapper-linux-x86/build-wrapper-linux-x86-64>
+Tue Oct 09 22:59:23 2018: argv[0]: <build-wrapper-linux-x86-64>
+Tue Oct 09 22:59:23 2018: argv[1]: <-c>
+Tue Oct 09 22:59:23 2018: argv[2]: <>
+Tue Oct 09 22:59:23 2018: argv[3]: <make>
+Tue Oct 09 22:59:23 2018: argv[4]: <clean>
+Tue Oct 09 22:59:23 2018: argv[5]: <all>
+Tue Oct 09 22:59:23 2018: skipping process with pid: 6213
+Tue Oct 09 22:59:23 2018: process created with pid: 6214
+Tue Oct 09 22:59:23 2018: parent pid: 6213
+Tue Oct 09 22:59:23 2018: working directory: </home/mauro/ciaa-ide/sapi_oneWire>
+Tue Oct 09 22:59:23 2018: executable: </usr/bin/make>
+Tue Oct 09 22:59:23 2018: argv[0]: <make>
+Tue Oct 09 22:59:23 2018: argv[1]: <clean>
+Tue Oct 09 22:59:23 2018: argv[2]: <all>
+Tue Oct 09 22:59:23 2018: skipping process with pid: 6214
+Tue Oct 09 22:59:23 2018: finalizing json file
+Tue Oct 09 22:59:23 2018: returned with code: 2
