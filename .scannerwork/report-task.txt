@@ -1,7 +1,7 @@
 organization=mauromoreyra-github
 projectKey=sapi_oneWire
 serverUrl=https://sonarcloud.io
-serverVersion=7.4.0.17063
+serverVersion=7.4.0.17996
 dashboardUrl=https://sonarcloud.io/dashboard?id=sapi_oneWire
-ceTaskId=AWYyPxaGCtES-6LJIblK
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWYyPxaGCtES-6LJIblK
+ceTaskId=AWZbuKtK7jOTEx8QmhIB
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWZbuKtK7jOTEx8QmhIB
